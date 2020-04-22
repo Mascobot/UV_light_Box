@@ -12,3 +12,6 @@ A couple of IMPORTANT notes:
 
 
 ![](/PicOutside.jpg)
+
+![](/pic_inside.jpg)
+

@@ -11,4 +11,4 @@ A couple of IMPORTANT notes:
 2. To my knowledge, it's unclear if UVC has effects on COVID19, but research seems promising and some companies have *claimed* some success.
 
 
-![](Screen Shot 2020-04-21 at 8.28.57 PM.png)
+![](/pic_inside.jpg)

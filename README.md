@@ -1,4 +1,5 @@
-# programmable_UV_light_neutralizingBox
+# Programmable UV light neutralizing Box for viruses using Raspberry Pi
+
 Programmable UVC light box &amp; code for a container to neutralize virus &amp; germs. 
 
 Video of device working: https://www.youtube.com/watch?v=KQDcSt40Rn0
@@ -10,4 +11,4 @@ A couple of IMPORTANT notes:
 2. To my knowledge, it's unclear if UVC has effects on COVID19, but research seems promising and some companies have *claimed* some success.
 
 
-![](DSC_0720.JPG)
+![](Screen Shot 2020-04-21 at 8.28.57 PM.png)

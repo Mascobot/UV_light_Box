@@ -10,6 +10,16 @@ A couple of IMPORTANT notes:
 
 2. To my knowledge, it's unclear if UVC has effects on COVID19, but research seems promising and some companies have *claimed* some success.
 
+Parts:
+
+1. Raspberry Pi 4
+2. 7 inch touch screen (ther are many options, but I used the official one from Raspberry Pi).
+3. Raspberry Pi relays (that can be actiated with 3.3V. I used this one: https://www.amazon.com/gp/product/B0057OC6D8/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1
+4. UVC light (many options on eBay). The ones that I used have a wavelenght of ~280nm
+5. Cooler. 
+6. Aluminum foil
+7. Metal shield around the box to prevent UVC light leaking out (it's not visible to the human eye).
+
 
 ![](/PicOutside.jpg)
 

@@ -27,3 +27,6 @@ Parts:
 
 ![](/pic_inside.jpg)
 
+![](/Wavelenght_spectrum.png)
+
+

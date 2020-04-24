@@ -10,7 +10,7 @@ A couple of IMPORTANT notes:
 
 2. To my knowledge, it's unclear if UVC has effects on COVID19, but research seems promising and some companies have *claimed* some success.
 
-3. For neutralizing virus & germs, it's a function of how long they are exposed to the light, how powerful the lights are, and how close the lights are to the items.
+3. For neutralizing virus & germs, it's a function of how long they are exposed to the light, the wavelenght of the light, how powerful the lights are, and how close the lights are to the items.
 
 Parts:
 
